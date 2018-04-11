@@ -51,6 +51,6 @@ execute:
 - script: install_as_root
 
 artifacts:
-- path: hawkular-javaagent-1.0.1.Final-redhat-2-shaded.jar
-  md5: f97f623e5b614a7b6d1eb5ff7158027b
+- url: https://repo1.maven.org/maven2/org/hawkular/agent/hawkular-javaagent/1.0.1.Final/hawkular-javaagent-1.0.1.Final-shaded.jar
+  md5: 1f55173d84e4ac52d0ee542e251d8b02
 
